@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Chris.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Suei43&theme=midnight-purple)](https://git.io/streak-stats)
 
