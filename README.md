@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chris.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suei43&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Suei43)](https://git.io/streak-stats)
 
 <!--
 **Suei43/Suei43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
