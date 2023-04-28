@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael Chris</h1>
-- 🔭 I’m currently working on [a family tree web app](https://github.com/Suei43/family-tree)
+- 🔭 I’m currently working on a family tree web app 👉 https://github.com/Suei43/family-tree
 
 - 🌱 I’m currently learning **TypeScript**
 
