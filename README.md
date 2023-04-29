@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphael Chris</h1>
+<h1 align="center">Hi 👋, I'm Suei</h1>
 - 🔭 Currently working on a family tree web app 👉 https://github.com/Suei43/family-tree
 
 - 🌱 I’m currently learning **TypeScript**.
