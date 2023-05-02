@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **TypeScript**.
 
-- 💬 Ask me about **Django, Express, Nest Js** frameworks.
+- 💬 Ask me about **Django, Express** and **Nest Js** frameworks.
 
-- 💬 Ask me about **Auth0 and Oauth** authentication systems.
+- 💬 Ask me about **Auth0** and **Oauth** authentication systems.
 
 - 📫Reach out to me at **sueiraphael@gmail.com**
 
