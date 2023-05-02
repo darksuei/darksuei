@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Django, Express, Nest Js** frameworks.
 
+- 💬 Ask me about **Auth0 and Oauth** authentication systems.
+
 - 📫Reach out to me at **sueiraphael@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
