@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**.
 
-- 💬 Ask me about **Django, Express** and **Nest Js** frameworks.
+- 💬 Ask me about **Django, Express** and **Next Js** frameworks.
 
 - 💬 Ask me about **Auth0** and **Oauth** authentication systems.
 
