@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NextAuth** and **Oauth** authentication systems.
 
-- 📫Reach out to me at **sueiraphael@gmail.com**
+- 📫Reach out to me at **sueiraphael@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
