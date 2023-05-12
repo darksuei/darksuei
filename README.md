@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suei</h1>
-- 🔭 Currently working on a family tree web app 👉 https://github.com/Suei43/family-tree
+- 🔭 Currently working on a diner web app 👉 https://github.com/Suei43/DinerPro-frontend
 
-- 🌱 I’m currently learning **TypeScript**.
+- 🌱 I’m currently learning **Next Js**.
 
-- 💬 Ask me about **Django, Express** and **Next Js** frameworks.
+- 💬 Ask me about **Django, Express** and **Nest Js** frameworks.
 
 - 💬 Ask me about **Auth0** and **Oauth** authentication systems.
 
