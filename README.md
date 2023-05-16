@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suei</h1>
 - 🔭 Currently working on a diner web app 👉 https://github.com/Suei43/DinerPro-frontend
 
-- 🌱 I’m currently learning **TypeScript**.
+- 🌱 I’m currently learning **TypeScript**..
 
 - 💬 Ask me about **Django, Express** and **Next Js** frameworks.
 
