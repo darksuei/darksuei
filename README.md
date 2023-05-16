@@ -1,10 +1,10 @@
 <h2 align="center">Hello, I'm Suei</h2>
 
-- 🔭 I'm a self-taught passionate BackEnd developer from Nigeria. 
+- 🌱 I'm a self-taught passionate BackEnd developer from Nigeria. 
 
 - 🔭 Currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
-- 🌱 I’m currently learning **TypeScript**..
+- ❤️‍ I’m currently learning **TypeScript**..
 
 - 💬 Ask me about **NextAuth** and **Oauth** authentication systems.
 
