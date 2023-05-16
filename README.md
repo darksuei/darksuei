@@ -1,13 +1,14 @@
-<h1 align="center">Hi, I'm Suei</h1>
-- 🔭 Currently working on a diner web app 👉 https://github.com/Suei43/DinerPro-frontend
+<h2 align="center">Hello, I'm Suei</h2>
+
+- 🔭 I'm a self-taught passionate BackEnd developer from Nigeria. 
+
+- 🔭 Currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
 - 🌱 I’m currently learning **TypeScript**..
 
-- 💬 Ask me about **Django, Express** and **Next Js** frameworks.
-
 - 💬 Ask me about **NextAuth** and **Oauth** authentication systems.
 
-- 📫Reach out to me at **sueiraphael@gmail.com**.
+- 📫Reach out to me at <a href="mailto:sueiraphael@gmail.com">here</a>.
 
 <h3 align="left">🌐 Connect with me</h3>
 
