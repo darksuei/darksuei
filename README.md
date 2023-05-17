@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **NextAuth** and **OAuth** authentication systems.
 
-- 📫Reach out to me at <a href="mailto:sueiraphael@gmail.com">here</a>.
+- 📫Reach out to me <a href="mailto:sueiraphael@gmail.com">here</a>.
 
 <h3 align="left">🌐 Connect with me</h3>
 
