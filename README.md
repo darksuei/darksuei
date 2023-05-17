@@ -6,7 +6,7 @@
 
 - ❤️‍ I’m currently learning **TypeScript**..
 
-- 💬 Ask me about **NextAuth** and **Oauth** authentication systems.
+- 💬 Ask me about **NextAuth** and **OAuth** authentication systems.
 
 - 📫Reach out to me at <a href="mailto:sueiraphael@gmail.com">here</a>.
 
