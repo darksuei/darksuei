@@ -2,13 +2,13 @@
 
 - 🌱 I'm a self-taught passionate BackEnd developer from Nigeria. 
 
-- 🔭 Currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
+- 🔭 I'm currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
 - ❤️‍ I’m currently learning **TypeScript**..
 
 - 💬 Ask me about **NextAuth** and **OAuth** authentication systems.
 
-- 💬Reach out to me <a href="mailto:sueiraphael@gmail.com">here</a>.
+- 💬 Reach out to me <a href="mailto:sueiraphael@gmail.com">here</a>.
 
 <h3 align="left">🌐 Connect with me</h3>
 
