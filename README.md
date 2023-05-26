@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm suei</h2>
+<h2 align="center">Hello, I'm Suei</h2>
 
 - 🌱 I'm a self-taught passionate BackEnd developer from Nigeria. 
 
