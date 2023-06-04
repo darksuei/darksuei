@@ -3,13 +3,11 @@
 
 <h2 align="center">Hello, I'm Suei ✨</h2>
 
-- 🌱 I'm a self-taught passionate BackEnd developer from Nigeria. 
+- 🌱 I'm a passionate self-taught BackEnd developer from Nigeria. 
 
 - 🔭 I'm currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
-- ❤️‍ I’m currently learning **TypeScript**..
-
-- 💬 Ask me about **NextAuth** and **OAuth** authentication systems.
+- ❤️‍ I’m currently learning **TypeScript**.
 
 - 💬 Reach out to me <a href="mailto:chrisraphael576@gmail.com">here</a>.
 
