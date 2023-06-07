@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
-- ❤️‍ I’m currently learning **TypeScript**.
+- ❤️‍ I’m currently learning **Next JS**.
 
 - 💬 Reach out to me <a href="mailto:chrisraphael576@gmail.com">here</a>.
 
