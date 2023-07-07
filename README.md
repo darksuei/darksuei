@@ -7,13 +7,13 @@
 
 - 🔭 I'm currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
-- ❤️‍ I’m currently learning **Next JS**.
+- ❤️‍ I’m currently learning **Typescript**.
 
-- 💬 Reach out to me <a href="mailto:chrisraphael576@gmail.com">here</a>.
+- 💬 Reach out to me <a href="mailto:folarinraphael@outlook.com">here</a>.
 
 <h3 align="left">🌐 Connect with me</h3>
 
-&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/folarin-raphael-83a21323a) &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/folarin-raphael) &nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sueii__) 
 
 <h3 align="left">💻 Tech Stack</h3>
