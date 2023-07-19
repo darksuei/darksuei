@@ -1,13 +1,13 @@
 <!-- Import Font Awesome CSS -->
 <link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"/>
 
-<h2 align="center">Hello, I'm Suei ✨</h2>
+<h2 align="center">Hello, I'm Folarin ✨</h2>
 
 - 🌱 I'm a passionate self-taught BackEnd developer from Nigeria. 
 
 - 🔭 I'm currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
 
-- ❤️‍ I’m currently learning **Typescript**.
+- ❤️‍ I’m currently learning **React**.
 
 - 💬 Reach out to me <a href="mailto:folarinraphael@outlook.com">here</a>.
 
@@ -24,4 +24,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Suei43&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suei43&theme=dark&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suei43&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suei43&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
