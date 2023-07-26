@@ -5,7 +5,7 @@
 
 - 🌱 I'm a passionate self-taught BackEnd developer from Nigeria. 
 
-- 🔭 I'm currently working on an Image Object Detection API 👉 https://github.com/Suei43/object-detection-api.git.
+- 🔭 I'm currently working on an Image Object Detection API 👉 https://github.com/Suei43/object-detection-api
 
 - ❤️‍ I’m currently learning **Next JS**.
 
