@@ -5,9 +5,9 @@
 
 - 🌱 I'm a passionate self-taught BackEnd developer from Nigeria. 
 
-- 🔭 I'm currently working on a family tree web app 👉 https://github.com/Suei43/family-tree.
+- 🔭 I'm currently working on an Image Object Detection API 👉 https://github.com/Suei43/object-detection-api.git.
 
-- ❤️‍ I’m currently learning **React**.
+- ❤️‍ I’m currently learning **Next JS**.
 
 - 💬 Reach out to me <a href="mailto:folarinraphael@outlook.com">here</a>.
 
