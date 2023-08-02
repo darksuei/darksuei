@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on an Image Detection API 👉 https://github.com/Suei43/imagevision
 
-- ❤️‍ I’m currently learning **Next JS**.
+- ❤️‍ I’m currently learning **Graph QL**.
 
 - 💬 Reach out to me <a href="mailto:folarinraphael@outlook.com">here</a>.
 
