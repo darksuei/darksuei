@@ -3,11 +3,11 @@
 
 <h2 align="center">Hello, I'm Folarin ✨</h2>
 
-- 🌱 I'm a passionate self-taught BackEnd developer from Nigeria. 
+- 🌱 I'm a passionate self-taught Full-Stack developer from Nigeria. 
 
 - 🔭 I'm currently working on a Cloud storage web app 👉 https://github.com/Suei43/CloudWave
 
-- ❤️‍ I’m currently learning **Graph QL**.
+- ❤️‍ I’m currently learning **NestJS**.
 
 - 💬 Reach out to me <a href="mailto:folarinraphael@outlook.com">here</a>.
 
