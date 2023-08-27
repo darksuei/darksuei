@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on a Cloud storage web app 👉 https://github.com/Suei43/CloudWave
 
-- ❤️‍ I’m currently learning **Server Architectural patterns**.
+- ❤️‍ I’m currently learning **Bash scripting**.
 
 - 💬 Reach out to me <a href="mailto:folarinraphael@outlook.com">here</a>.
 
