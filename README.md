@@ -3,6 +3,7 @@
 
 <h2 align="center">Hello, I'm Folarin ✨</h2>
 
+
 - 🌱 I'm a passionate self-taught Full-Stack developer from Nigeria. 
 
 - 🔭 I'm currently working on a Cloud storage web app 👉 https://github.com/Suei43/CloudWave
@@ -15,8 +16,6 @@
 
 > Software, like all technologies, is inherently political. \
 > Code inevitably reflects the choices, biases and desires of its creators.
-
-~ Jeremy Keith, [2010]. The Design of HTML5. <https://adactio.com/articles/1704/>
 
 <br>
 
