@@ -4,7 +4,7 @@
 <h2 align="center">Hello, I'm Folarin ✨</h2>
 
 
-- 🌱 I'm a passionate, self-taught Full-Stack developer from Nigeria.
+- 🌱 I'm a passionate, self-taught Full-Stack Engineer from space.
 
 - 🔭 I'm currently working on a Cloud storage web app >> https://github.com/Suei43/cloudwave
 
