@@ -30,14 +30,11 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-
+<!--
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darksuei&theme=transparent&hide_border=true&card_width=450) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darksuei&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&card_width=450) |
-|:---:|:---:|
+|:---:|:---:|-->
 
 
-
- 
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Suei43&theme=dark&hide_border=true)<br/> -->
 <!-- <h3 align="left">📊 Github Stats</h3>
 <h3 align="left">💻 Tech stack</h3>
 
