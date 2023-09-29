@@ -4,7 +4,7 @@
 <h2 align="center">Hello, I'm Suei ✨</h2>
 
 
-- 🌱 I'm a passionate, self-taught Full-Stack Software Engineer
+- 🌱 I'm a dedicated, self-driven Full-Stack Software Engineer.
 
 - 🔭 I'm currently building [Studera](https://github.com/Studera-AI/) 🚀
 
