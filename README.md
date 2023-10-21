@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently building [Studera](https://github.com/Studera-AI/) 🚀
 
-- ❤️‍ I’m open to collaboration on any interesting open-source projects :>
+- ❤️‍ I’m open to collaboration on any interesting open-source projects :)
 
 - 💬 Need to reach out to me? <a href="mailto:contact@suei.space">Shoot me an email!</a>
  
