@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently building [Studera](https://github.com/Studera-AI/) 🚀
 
-- ❤️‍ I’m open to collaboration on any interesting open-source projects :)
+- ❤️‍ I’m open to collaboration on any interesting and/ open-source projects :)
 
 - 💬 Need to reach out to me? <a href="mailto:contact@suei.space">Shoot me an email!</a>
  
@@ -36,7 +36,6 @@
 | **My Streak** | **My Statistics** |
 |:---:|:---:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darksuei&theme=transparent&hide_border=true&card_width=450) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darksuei&theme=transparent&show_icons=true&hide_border=true&include_all_commits=false&count_private=true&card_width=450) |
-
 
 
 <!-- <h3 align="left">📊 Github Stats</h3>
