@@ -35,7 +35,7 @@
 
 | **My Streak** | **My Statistics** |
 |:---:|:---:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darksuei&theme=transparent&hide_border=true&card_width=450) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darksuei&theme=transparent&show_icons=true&hide_border=true&include_all_commits=false&count_private=true&card_width=450) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darksuei&theme=transparent&hide_border=false&card_width=450) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darksuei&theme=transparent&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&card_width=450) |
 
 
 <!-- <h3 align="left">📊 Github Stats</h3>
