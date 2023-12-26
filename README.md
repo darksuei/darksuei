@@ -8,7 +8,7 @@
 
 - ❤️‍ I’m open to collaboration on any interesting and/ open-source projects :)
 
-- 💬 Need to reach out to me? <a href="mailto:contact@suei.space">Shoot me an email!</a>
+- 💬 Need to reach out to me? <a href="mailto:folarinraphael@outlook.com">Shoot me an email!</a>
  
 <br>
 
