@@ -1,7 +1,7 @@
 <!-- Import Font Awesome CSS -->
 <link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"/>
 
-<h2 align="center">Hello, I'm Suei ツ</h2>
+<h2 align="center">Hello, I'm Folarin ツ</h2>
 
 
 - 🌱 I'm a dedicated, self-driven Full-Stack Software Engineer.
