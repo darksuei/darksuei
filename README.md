@@ -4,7 +4,7 @@
 <h2 align="center">Hello, I'm Folarin ツ</h2>
 
 
-- 🌱 Network / Cloud Engineer.
+- 🌱 Network / Cloud-Native Software Engineer.
 
 - 💬 <a href="mailto:folarinraphael@outlook.com">Shoot me an email.</a>
  
