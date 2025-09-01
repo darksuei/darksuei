@@ -4,9 +4,7 @@
 <h2 align="center">Hello, I'm Folarin ツ</h2>
 
 
-- 🌱 I'm a dedicated, self-driven Software Engineer.
-
-- ❤️‍ I’m open to collaboration on any interesting and/ open-source projects ツ
+- 🌱 Network / Cloud Engineer.
 
 - 💬 <a href="mailto:folarinraphael@outlook.com">Shoot me an email.</a>
  
